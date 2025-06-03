@@ -14,6 +14,7 @@ List of B4X IDEs project templates
 10. [B4X dashboard v0.004](https://github.com/pyhoon/ab4xdashboard-b4x/releases/download/v0.004/AB4XDashboard-0.004.b4xtemplate)
 11. [B4XPages for github v1.01](https://github.com/pyhoon/b4xpages-for-github/releases/download/v1.01/B4XPages-for-GitHub.b4xtemplate)
 12. [B4XPages for github v1.00 (zip)](https://github.com/pyhoon/b4xpages-for-github/releases/download/v1.00/B4XPages.for.GitHub.zip)
+13. [B4XPages (2-Pages) (B4X forum)](https://www.b4x.com/android/forum/attachments/b4xpages-2-pages-b4xtemplate.159414/)
 
 ## B4J
 1. [Pakai Server v4.00 (zip)](https://github.com/pyhoon/pakai-server-b4j/releases/download/4.00/Pakai.Server.4.00.zip)
