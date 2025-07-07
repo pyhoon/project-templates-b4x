@@ -44,7 +44,7 @@ List of B4X IDEs project templates
 25. [Web API Server v1.10](https://github.com/pyhoon/webapi-b4j/releases/download/documentation/Web.API.b4xtemplate)
 26. [Web API Server v1.09 (zip)](https://github.com/pyhoon/webapi-b4j/releases/download/B4X/Web.API.1.09.zip)
 27. [Inti Server v1.00 (zip)](https://github.com/pyhoon/inti-b4j/releases/download/v1.00/Inti.Server.1.00.zip)
-28. [EndsMeet Server v0.90](https://github.com/pyhoon/EndsMeet-Server/blob/main/EndsMeet%20Server%20(0.90).b4xtemplate)
+28. [EndsMeet Server v1.00](https://github.com/pyhoon/EndsMeet-Server/blob/main/EndsMeet%20Server%20(1.00).b4xtemplate)
 29. [EndsMeet Server v0.80 (zip)](https://github.com/pyhoon/EndsMeet/releases/download/v0.80/EndsMeet.0.80.zip)
 30. [MiniServer (B4X forum)](https://www.b4x.com/android/forum/attachments/miniserver-1-00-b4xtemplate.145668/)
 31. [JRDC2 Server v3.10](https://github.com/pyhoon/jrdc2-server-template-b4j/blob/main/JRDC%20Server%20(3.10).b4xtemplate)
